@@ -11,7 +11,6 @@ A **full-featured web-based code editor** built from scratch using **React.js** 
 - 🌀 **React Context API** – Efficient state sharing across editors and preview (40% more efficient than prop drilling).  
 - 🧩 **Reusable Components** – Application modularized into 6+ reusable React components.  
 - 🎯 **Performance Optimized** – Debounced input reduces unnecessary re-renders (30% faster typing experience).  
-- 🌓 **Dark/Light Mode** – Switch themes for a comfortable coding experience.  
 - 📱 **Responsive UI** – Optimized for desktop, tablet, and mobile devices.  
 
 ---
